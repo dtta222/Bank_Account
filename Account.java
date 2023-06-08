@@ -1,10 +1,8 @@
 //*************************************************************************
-//Week 12 - Practice Assignment
+//Practice Assignment
 //Account.java
 //Date: 04/26/2023
 //Author: David Taylor
-//Class: CIT 149–19Z1–78178
-//Instructor: Krishna Nandanoor
 //Purpose: The Account class models a customers account with a money balance, credit and debit
 //*************************************************************************
 
